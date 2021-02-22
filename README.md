@@ -1,5 +1,5 @@
 # Biblioteca-del-pueblo
-Biblioteca con los aprendizajes de programacion (competitiva) en C++
+Repositorio con los aprendizajes de programacion (competitiva) en C++
 
 ## Organizacion de la biblioteca del pueblo
 Este repositorio se organiza por carpetas. Cada carpeta sirve como contenedor para cada tema aprendido (input/output, arrays, vectors, functions, etc).
